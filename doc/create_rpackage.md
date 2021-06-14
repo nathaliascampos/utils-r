@@ -46,7 +46,7 @@ Documentation completed
 
 Automatically builds and checks a source package, using all known best practices. 
 
-Check your package with Ctrl/Cmd + Shift + E or [`devtools::check()`](chhttps://www.rdocumentation.org/packages/devtools/versions/2.4.2/topics/checkeck).
+Check your package with Ctrl/Cmd + Shift + E or [`devtools::check()`](https://www.rdocumentation.org/packages/devtools/versions/2.4.2/topics/check).
 
 Ps.: `check` function has a `document` parameter. By default (NULL) will document if your installed roxygen2 version matches the version declared in the DESCRIPTION file. Use `TRUE` or `FALSE` to override the default.
 
